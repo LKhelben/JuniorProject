@@ -1,0 +1,33 @@
+THINGS NEEDED BY NEXT WEEK
+-All 4 abilities working
+	-Cone - Q
+	-Grenade - Kieran
+	-Buff - Khel
+-Player Framework
+	-Cooldowns -Tyger
+	-
+-Can die/kill AI - Phil
+	-Enemy Drops?
+	-Enemys patrol
+	-Basic AI
+-Basic levels - Payton
+	-More than just a greybox
+	-Test Abilities/Spawn enemies/start attempting puzzle
+
+-Basic Menu Framework working - Kieran
+	-Credits
+	-Are you sure
+
+
+
+
+
+--Poll Results--
+
+-Light attack faster
+-Charging ability 1 slower/more powerful
+-light turn projectiles on, dark projectiles off
+-Light pierce through
+-Dark life steals
+-light cone stuns
+-dark cone slows
