@@ -1,0 +1,5 @@
+Download the whole folder, and locate the Content folder of your unreal project. Drag and drop the folder into there, and the effects should show.
+
+The coin asset will need an update once the collectable Coin model is complete. When completed, go to the blueprint, go to the Mesh Renderer, and then replace mesh with the coin model. Remove the override material as well.
+
+If any issue arise, contact Joey.
